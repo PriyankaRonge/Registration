@@ -10,6 +10,8 @@ public class HelloWorldApplication {
 		SpringApplication.run(HelloWorldApplication.class, args);
 		System.out.println("first message............");
 		System.out.println("second message ");
+		System.out.println("third message from github ");
+
 	}
 
 }
